@@ -1,7 +1,3 @@
-# AI-Based-diabetes-prediction-Model
-
-"AI-powered medical diagnosis for diabetes prediction using machine learning"
-
 # AI-Powered Medical Diagnosis (Diabetes Prediction)
 
 ## Project Overview
@@ -11,7 +7,7 @@ This project aims to predict the likelihood of diabetes in patients using machin
 Diabetes is a chronic disease affecting millions worldwide. Early detection is crucial for effective management. Traditional methods require laboratory tests, but an AI-driven approach can assist in rapid preliminary screening using readily available health metrics.
 
 ## Solution
-We have implemented a machine learning model using a **Random Forest Classifier** to predict diabetes based on a dataset of medical records. The model processes patient data, performs feature scaling, and provides an easy-to-use prediction function.
+Implemented a machine learning model using a **Random Forest Classifier** to predict diabetes based on a dataset of medical records. The model processes patient data, performs feature scaling, and provides an easy-to-use prediction function.
 
 ## Tools & Platforms Used
 - **Programming Language:** Python
